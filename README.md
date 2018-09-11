@@ -1,5 +1,5 @@
 # clima-dycore.jl
-Julia based common dynamical core for CLIMA. 
+Possible Julia based common dynamical core for CLIMA. 
 
 ### Status
 This is a first experiment in how a CLIMA git setup might look. 
